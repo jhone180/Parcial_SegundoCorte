@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParcialSegundoCorte</string>
+    <string name="campo_usuario">Usuario</string>
+    <string name="campo_contraseña">Contraseña</string>
+    <string name="boton_entrar">Iniciar Sesion</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
